@@ -37,10 +37,6 @@ This project implements a Convolutional Neural Network (CNN) for classifying ima
 
 - The script allows training with or without data augmentation.
 - It saves the best model based on validation accuracy to `Output_Models/classification_CNN/best_model.h5`.
-
-## Results & Evaluation
-
-- Training and validation metrics are printed during training.
 - The best model is stored and can be used for further inference or fine-tuning.
 
 ### Final Model Performance
